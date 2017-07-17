@@ -1,0 +1,16 @@
+{
+  "name": "jacobin",
+  "type": "wordpress-theme",
+  "license": "GPL-3.0",
+  "description": "Blank theme that directs to admin",
+  "homepage": "https://github.com/misfist/jacobin-blank-theme",
+  "authors": [
+    {
+      "name": "Pea",
+      "homepage": "https://github.com/misfist"
+    }
+  ],
+  "keywords": [
+    "wordpress theme"
+  ]
+}
